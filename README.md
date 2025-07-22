@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🎓 I'm currently a Postdoctoral Research Associate at Yale University
-- 💻 I’m currently working on geometric deep learning, molecular graph synthesis, multimodal data analysis
-- ⬅️  Previously at Brown University, UBC, TRIUMF
-- 💬 Ask me about `Topological Data Analysis`, `Representation Learning`, `Agent-Based Models`
-- 📫 How to reach me: dhananjay\_bhaskar@alumni.brown.edu
-- 😄 Pronouns: he/him
+- 🎓 Assistant Professor at UW-Madison
+- 💻 Research Interests: `topological data analysis`, `geometric deep learning`, `agent-based modeling`
+- ⬅️  Previously: Postdoc @ Yale University, PhD @ Brown University, BSc and MSc @ UBC
+- 📫 How to reach me: dhananjay.bhaskar@wisc.edu
+- 😄 Pronouns: he/his/him
 
 \
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dbhaskar92&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
